@@ -1,16 +1,25 @@
-## Hi there 👋
+# Sterling Smith
 
-<!--
-**Sterling-Smith/Sterling-Smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & CEO of [RightMatch AI](https://rightmatch.app). We build AI interview infrastructure. Mira, our interviewing agent, runs a video interview with every candidate on Day 1 of their application and hands recruiters a ranked shortlist instead of a resume pile.
 
-Here are some ideas to get you started:
+## What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Mira.** The interview agent. More than 1 million applicants evaluated.
+- **Fraud detection.** Catching AI-assisted cheating in live interviews: real-time answer overlays, AI-generated voices, duplicate identities, camera-replay attacks. False positive rate under 0.4%, with timestamped evidence behind every flag.
+- **Integrations.** 27 ATS platforms. MCP-native.
+
+Most of this lives in private repos under the RightMatch org. The contribution graph is the honest version.
+
+## Before this
+
+- Engineer at Walmart, Lockheed Martin, Booz Allen Hamilton (Department of Defense deployments), Hitachi Consulting, and Learn In, where I was the third engineering hire before the Degreed acquisition.
+- Founded Sandbox Commerce, a no-code mobile app builder for retailers. 1st place at Shopify Accelerator Demo Day.
+- Years on the investing side, backing early-stage founders.
+
+## Writing
+
+[Everyone Is Cheating Now](https://sterlingsmith.fyi/cheating). Candidates and companies both use AI in hiring now, so the system selects for the best cheater. More at [sterlingsmith.fyi](https://sterlingsmith.fyi).
+
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/sterlingssmith) · [X](https://x.com/sterlingsmith) · [Bluesky](https://bsky.app/profile/sterlingsmith.fyi)
